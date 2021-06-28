@@ -7,4 +7,4 @@
     <a href="https://letmeask-nlw-3bdf8.web.app/">🔗 Projeto em produção</a>
 </h5>
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+<a href="https://github.com/darlanRaimundo/letmeask_nlw/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/darlanRaimundo/letmeask_nlw?style=for-the-badge"></a>
