@@ -22,7 +22,8 @@
  <br />
  <sub><b>Darlan Raimundo</b></sub>
 </a> 
-<a></a> 
+<br />
+<br />
 Feito por Darlan Raimundo 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Darlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlan-raimundo-573a49111/)](https://www.linkedin.com/in/darlan-raimundo-573a49111/) 
