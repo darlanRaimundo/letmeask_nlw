@@ -22,10 +22,7 @@
  <sub><b>Darlan Raimundo</b></sub></a> <a href="#" title="Perfil">🚀</a>
 
 
-Feito com ❤️ por Darlan Raimundo 👋🏽 Entre em contato!
-
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=DarlanRaimundo_&style=social&url=https%3A%2F%2Ftwitter.com%2FDarlanRaimundo_">
-<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=DarlanRaimundo_&style=social&url=https%3A%2F%2Ftwitter.com%2FDarlanRaimundo_">
+Feito por Darlan Raimundo 👋🏽 Entre em contato!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Darlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlan-raimundo-573a49111/)](https://www.linkedin.com/in/darlan-raimundo-573a49111/) 
