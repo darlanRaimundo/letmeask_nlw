@@ -18,6 +18,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Firebase](https://console.firebase.google.com/)
 
+### Como rodar o projeto?
+
+- Necessário fazer o download do projeto
+- Configurar as chaves de conexão com o firebase no arquivo: 'firebase.ts'
+- rodar o comando 'npm install'
+- rodar o comando 'npm start' ou 'yarn start'(se possuir yarn instalado)
+
 
 ### Autor
 ---
