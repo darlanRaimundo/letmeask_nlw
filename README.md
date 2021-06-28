@@ -9,8 +9,14 @@
 <a href="https://github.com/darlanRaimundo/letmeask_nlw/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/darlanRaimundo/letmeask_nlw?style=for-the-badge"></a>
 </div>
 
-##tecnologias
-<p>.</p>
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://console.firebase.google.com/)
 
 
 ### Autor
