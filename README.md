@@ -31,7 +31,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a>
  <img style="border-radius: 50%;" 
- src="https://avatars.githubusercontent.com/u/11629313?s=400&u=0c8ab2721da9007155423beb879586f9b9a18222&v=4" width="100px;" alt=""></img>
+  src="https://avatars.githubusercontent.com/u/11629313?s=400&u=0c8ab2721da9007155423beb879586f9b9a18222&v=4" width="100px;" alt="" 
+ />
  <br />
  <sub><b>Darlan Raimundo</b></sub>
 </a> 
