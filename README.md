@@ -3,8 +3,8 @@
 ## Descrição do Projeto
 <p align="center">Projeto criado focado em lives, onde que o objetivo é para que os usuários escolham as perguntas mais pedidas para serem respondidas.</p>
 
-<h6>
+<h5>
     <a href="https://letmeask-nlw-3bdf8.web.app/">🔗 Projeto em produção</a>
-</h6>
+</h5>
 
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
