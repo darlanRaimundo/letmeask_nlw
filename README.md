@@ -20,7 +20,9 @@
  <img style="border-radius: 50%;" 
  src="https://avatars.githubusercontent.com/u/11629313?s=400&u=0c8ab2721da9007155423beb879586f9b9a18222&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Darlan Raimundo</b></sub></a> 
+ <sub><b>Darlan Raimundo</b></sub>
+</a> 
+<a></a> 
 Feito por Darlan Raimundo 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Darlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlan-raimundo-573a49111/)](https://www.linkedin.com/in/darlan-raimundo-573a49111/) 
