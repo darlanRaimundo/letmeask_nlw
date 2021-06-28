@@ -3,6 +3,6 @@
 ## Descrição do Projeto
 <p align="center">Projeto criado focado em lives, onde que o objetivo é para que os usuários escolham as perguntas mais pedidas para serem respondidas.</p>
 
-<h1 align="center">
+<h6 align="center">
     <a href="https://letmeask-nlw-3bdf8.web.app/">🔗 Projeto em produção</a>
-</h1>
+</h6>
