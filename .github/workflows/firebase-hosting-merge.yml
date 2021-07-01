@@ -17,6 +17,7 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LETMEASK_NLW_3BDF8 }}'
           channelId: live          
+        env:
           apiKey: '${{ secrets.REACT_APP_API_KEY }}'
           authDomain: '${{ secrets.REACT_APP_AUTH_DOMAIN }}'
           databaseURL: '${{ secrets.REACT_APP_DATABASE_URL }}'
