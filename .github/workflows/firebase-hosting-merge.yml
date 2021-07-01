@@ -18,3 +18,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LETMEASK_NLW_3BDF8 }}'
           channelId: live
           projectId: letmeask-nlw-3bdf8
+          authDomain: '${{ secrets.REACT_APP_AUTH_DOMAIN }}'
