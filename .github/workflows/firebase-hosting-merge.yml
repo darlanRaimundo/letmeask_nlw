@@ -16,6 +16,11 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_LETMEASK_NLW_3BDF8 }}'
-          channelId: live
-          projectId: letmeask-nlw-3bdf8
+          channelId: live          
+          apiKey: '${{ secrets.REACT_APP_API_KEY }}'
           authDomain: '${{ secrets.REACT_APP_AUTH_DOMAIN }}'
+          databaseURL: '${{ secrets.REACT_APP_DATABASE_URL }}'
+          projectId: '${{ secrets.REACT_APP_PROJECT_ID }}'
+          storageBucket: '${{ secrets.REACT_APP_STORAGE_BUCKET }}'
+          messagingSenderId: '${{ secrets.REACT_APP_MESSAGING_SENDER_ID }}'
+          appId: '${{ secrets.REACT_APP_APP_ID }}'
